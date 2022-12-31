@@ -1,0 +1,103 @@
+nav{
+height: 130px;
+    background-color: rgb(14, 31, 31);
+}
+.img5 {
+    width: 300px;
+    padding-right: 100px;
+}
+.main{
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.nav-item a{
+    font-size: 27px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.nav-item a:hover{
+    color: rgb(167, 108, 20);
+}
+.btn0{
+    border-radius: 60px;
+    background-color: rgb(199, 22, 113);
+    font-size: 23px;
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 40%;
+}
+.btn0:hover{
+    background-color: rgb(21, 189, 15);
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    font-family: 'Kalam', cursive;
+    border: 2px solid rgb(248, 26, 92);
+}
+.d-flex input{
+    border-radius: 60px;
+
+}
+.btn1{
+    background-color: rgb(21, 185, 15);
+    font-size: 20px;
+    border-radius: 60px;
+    height: 45px;
+    width: 35%;
+    font-weight: 600;
+    border: none;
+    outline: none;
+    
+}
+
+.btn1:hover{
+    background-color: rgb(22, 109, 14);
+    transition: 0.5s;
+}
+.navbar-nav li{
+padding-top: 20px;
+}
+.img-fluid{
+    color: black;
+}
+.row div{
+    padding: 25px;
+}
+.img-fluid:hover{
+    transform: translate(5px,3px);
+
+
+}
+.bt1{
+    background-color: rgb(241, 34, 34);
+    border-radius: 3%;
+    border-style: hidden;
+    color: white;
+
+}
+.bt2{
+    color: white;
+    border-radius: 3%;
+    border-style: hidden;
+    background-color: rgb(241, 34, 35);
+}
+
+.bt3{
+    width: 100px;
+}
+
+.CONTACT .row{
+    color: white;
+}
+.bt3{
+    border-radius: 7px;
+    font-size: 20px;
+}
